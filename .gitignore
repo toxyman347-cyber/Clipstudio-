@@ -1,0 +1,6 @@
+node_modules/
+downloads/
+*.mp4
+*.webm
+.env
+.DS_Store
